@@ -1,2 +1,2 @@
 # MillionAgentsTEST
-Lenta app parses
+Lenta app parser
